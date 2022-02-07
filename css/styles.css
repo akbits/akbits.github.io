@@ -241,7 +241,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: cadetblue;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11400,7 +11400,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: cadetblue;
 }
 
 .dev-icons {
